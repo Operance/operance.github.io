@@ -12,6 +12,7 @@
   <strong> Github: </strong> https://github.com/Operance, https://github.com/ShawnBrown98
   <br>
   <strong> Email: </strong> stbrown98@gmail.com
+</p>
   
 
 
