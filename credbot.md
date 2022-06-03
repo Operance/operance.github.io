@@ -48,6 +48,21 @@
         </ul>
       </div>
     </div>
+       <div class="accordion">
+     <div class="accordion-header">
+        <div class="accordion-title">Video Demonstrations</div>
+        <span class="accordion-icon">◀</span>
+      </div>
+      <div class="accordion-content">
+        <ul>
+          <li><a href="https://youtu.be/tUliYlRtDt4">Give Cred</a></li>
+          <li><a href="https://youtu.be/9JL36dAr3Zc">Rewards</a></li>
+          <li><a href="https://youtu.be/bETXtH8jMWs">Text Alerts</a></li>
+          <li><a href="https://youtu.be/yliNWhPObvA">Temporary Email</a></li>
+          <li>Calls (Video coming soon!)</li>
+        </ul>
+      </div>
+    </div>
    
 <style>
   .navbar{
