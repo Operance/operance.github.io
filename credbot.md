@@ -1,6 +1,7 @@
-<h2><strong>Cred Bot</h2></strong>
+<h2><strong>Cred Bot</strong></h2>
 <p> 
   The Cred Bot is an ongoing project that is a "fun" type bot along with some useful features. I am invested in making this bot unique, one that is different from many of the popular Discord bots that you could add to your server. 
+</p>
  <br>
  <p>
    <strong>Language:</strong> Python
