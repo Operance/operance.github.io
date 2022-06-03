@@ -4,7 +4,7 @@
   <a href = "/projects"> Projects </a>
 </div>
 
-
+<p style="text-align:center;"><img src="operance.github.io/DSC06901.jpg" alt="Logo" width = "400" height = "500"/></p>
 
 
 
