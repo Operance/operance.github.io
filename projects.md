@@ -1,1 +1,65 @@
+   <h2 id="skills">Skills</h2>
 
+   <div class="accordion">
+     <div class="accordion-header">
+        <div class="accordion-title">Projects</div>
+        <span class="accordion-icon">◀</span>
+      </div>
+      <div class="accordion-content">
+        <ul>
+          <li>Discord Bot (Cred Bot)(Python)(In Progress)</li>
+          <li>Unity Game (Browser Game)(C#)(In Progress)</li>
+          <li>Basic Web Calculator (JavaScript)</li>
+          <li>Basic CM/MM to Inches Converter (C++)</li>
+          <li>Former Unity Game Project (JavaScript)</li>
+        </ul>
+      </div>
+    </div>
+    
+<style>
+  .accordion {
+  border: 2px solid #dce6f0;
+  border-radius: 10px;
+  margin: 5px 0;
+}
+.accordion-header {
+  display: flex;
+  padding: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #f3f6fa;
+}
+.accordion-title {
+  flex: 1;
+}
+.accordion-icon {
+  width: 16px;
+  font-family: arial;
+}
+.accordion-content {
+  padding: 16px;
+  border-radius: 10px;
+}
+.accordion-content {
+  display: none;
+}
+.accordion-header:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+</style>
+   
+<script>
+
+  const accordionHeaders = document.getElementsByClassName('accordion-header');
+  const accordionContents = document.getElementsByClassName('accordion-content');
+  const accordionIcons = document.getElementsByClassName('accordion-icon');
+
+
+  for (let i = 0; i < accordionHeaders.length; i++) {
+    accordionHeaders[i].addEventListener('click', () => {
+      accordionContents[i].style.display = accordionContents[i].style.display == 'block' ? 'none' : 'block';
+      accordionIcons[i].innerHTML = accordionContents[i].style.display == 'block' ? '▼' : '◀';
+    });
+  }
+  
+</script>
