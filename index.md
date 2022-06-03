@@ -9,7 +9,7 @@
 <br>
   <strong> LinkedIn: </strong> <a href = "https://www.linkedin.com/in/stbrown98">https://www.linkedin.com/in/stbrown98</a>
   <br>
-  <strong> Github: </strong> <a href = "https://github.com/Operance">https://github.com/Operance</a>, <a href = "https://github.com/ShawnBrown98">https://github.com/ShawnBrown98</a>
+  <strong> GitHub: </strong> <a href = "https://github.com/Operance">https://github.com/Operance</a>, <a href = "https://github.com/ShawnBrown98">https://github.com/ShawnBrown98</a>
   <br>
   <strong> Email: </strong> stbrown98@gmail.com
 </p>
