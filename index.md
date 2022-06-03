@@ -4,6 +4,16 @@
   <a href = "/projects"> Projects </a>
 </div>
 
+<p> 
+  Hello everyone! Thank you for visiting at my portfolio website! You can learn more about me by visiting the "About Me" section, or take a look at my projects in the projects section! You can find my contact info below. 
+<br>
+  <strong> LinkedIn: </strong> https://www.linkedin.com/in/stbrown98/
+  <br>
+  <strong> Github: </strong> https://github.com/Operance, https://github.com/ShawnBrown98
+  <br>
+  <strong> Email: </strong> stbrown98@gmail.com
+  
+
 
 <style>
   .navbar{
