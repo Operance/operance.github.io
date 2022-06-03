@@ -5,7 +5,7 @@
 </div>
 
 <p> 
-  Hello everyone! Thank you for visiting at my portfolio website! You can learn more about me by visiting the "About Me" section, or take a look at my projects in the projects section! You can find my contact info below. 
+  Hello everyone! Thank you for visiting my portfolio website! You can learn more about me by visiting the "About Me" section, or take a look at my projects in the projects section! You can find my contact info below. 
 <br>
   <strong> LinkedIn: </strong> <a href = "https://www.linkedin.com/in/stbrown98">https://www.linkedin.com/in/stbrown98</a>
   <br>
