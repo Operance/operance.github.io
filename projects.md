@@ -4,7 +4,7 @@
   <a href = "/projects"> Projects </a>
 </div>
    
-   <h2 id="skills">Skills</h2>
+   <h2 id="skills">Projects</h2>
 
    <div class="accordion">
      <div class="accordion-header">
