@@ -14,7 +14,7 @@
       <div class="accordion-content">
         <ul>
           <li><a href="/credbot">Discord Bot (Cred Bot)(Python)(In Progress)</a></li>
-          <li><a href="operance.github.io/PortfolioBuild/index.html">Unity Game (Browser Game)(C#)(In Progress)</a></li>
+          <li><a href="/PortfolioBuild/index.html">Unity Game (Browser Game)(C#)(In Progress)</a></li>
           <li>Basic Web Calculator (JavaScript)</li>
           <li>Basic CM/MM to Inches Converter (C++)</li>
           <li>Former Unity Game Project (JavaScript)</li>
