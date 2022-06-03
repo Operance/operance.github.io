@@ -15,7 +15,7 @@
      <li>Request a temporary email and recieve emails through Cred Bot </li>
      <li>"Wake up" calls to members phones at a member-specified time. Also good for finding a lost phone! </li>
    </ul>
-   </br>
+   <br>
    <strong>Current Goals/Roadmap:</strong>
    <ul>
   <li>Migrate the bot to Azure or Google Cloud hosting.</li>
@@ -23,7 +23,4 @@
   <li>Research the potential of a discord phone with discord.js</li>
   <li>General Cleanup</li>
   
-    
- </p>
-</p>
 
