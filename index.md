@@ -27,7 +27,7 @@
  }
  
  .navbar a:hover{
-  background-color: #0c97b0
+  background-color: #0c97b0;
   height: 100%;
   }
   
