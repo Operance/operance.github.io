@@ -13,7 +13,7 @@
       </div>
       <div class="accordion-content">
         <ul>
-          <li>Discord Bot (Cred Bot)(Python)(In Progress)</li>
+          <li><a href="/credbot">Discord Bot (Cred Bot)(Python)(In Progress)</a></li>
           <li>Unity Game (Browser Game)(C#)(In Progress)</li>
           <li>Basic Web Calculator (JavaScript)</li>
           <li>Basic CM/MM to Inches Converter (C++)</li>
