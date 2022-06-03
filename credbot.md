@@ -16,7 +16,7 @@
   <ul>
     <li>Give and take "cred" from members of the server (limited to 50 cred per day).</li>
   <li>"Cash in" cred for rewards such as muting, deafening or kicking another member of the server.</li>
-  <li>Text alerts on voice channel join for enabled umembers.</li>
+  <li>Text alerts on voice channel join for enabled members.</li>
   <li>Custom admin text alerts to enabled members.</li>
   <li>Request a temporary email and recieve emails through Cred Bot </li>
   <li>"Wake up" calls to members phones at a member-specified time. Also good for finding a lost phone! </li>
