@@ -1,3 +1,9 @@
+<div class = "navbar">
+  <a href = "/"> Home </a>
+  <a href = "/about"> About Me </a>
+  <a href = "/projects"> Projects </a>
+</div>
+   
    <h2 id="skills">Skills</h2>
 
    <div class="accordion">
