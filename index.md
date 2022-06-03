@@ -14,6 +14,7 @@
   top: 0px;
   left: 0px;
   box-shadow: 0px 0px 8px 2px #000000;
+  background-color: #155799;
  }
   
 .navbar a {
