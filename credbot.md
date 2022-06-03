@@ -48,7 +48,7 @@
         </ul>
       </div>
     </div>
-       <div class="accordion">
+   <div class="accordion">
      <div class="accordion-header">
         <div class="accordion-title">Video Demonstrations</div>
         <span class="accordion-icon">◀</span>
