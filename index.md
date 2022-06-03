@@ -26,6 +26,7 @@
   left: 0px;
   box-shadow: 0px 0px 8px 2px #000000;
   background-color: #155799;
+  background-image: linear-gradient(120deg, #155799, #159957);
  }
   
 .navbar a {
