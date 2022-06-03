@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+body
+{
+  background-color: #D3D3D3
+}
+</style>
+
+
+</head>
+
+<body>
+
+<!---Radio buttons to choose math type. --->
+<form id = "mathChoice">
+Choose your method of calculation:
+<input type="radio" name="choice" id="add">
+<label for "add">Addition</label>
+<input type="radio" name="choice" id = "sub">
+<label for "sub">Subtraction</label>
+<input type="radio" name="choice" id = "multi">
+<label for "multi">Multiplication</label>
+<input type="radio" name="choice" id = "divi">
+<label for "divi">Division</label>
+</form>
+<br>
+<!---Inputs for floats or integers --->
+<label for="numOne"> Input your first number here: </label>
+<br>
+<input type ="number" id="numOne" name="numOne">
+<!---Sends the input data to the saveDataOne function to save--->
+<input type ="submit" onclick="saveDataOne()" name ="numOne">
+</form>
+<br>
+<label for="numTwo"> Input your second number here: </label>
+<br>
+<input type="number" id="numTwo" name="numTwo">
+<!---Sends the input data to the saveDataTwo function to save--->
+<input type ="submit" onclick="saveDataTwo()">
+<!---On button click calls the checkmath function to see which math choice was made.--->
+<button onclick="checkmath()">Calculate</button>
+</form>
+
+
+
+
+
+
+
+
+</select>
+
+
+<script>
+
+var newsave = 0.00
+var newsaveTwo = 0.00
+var addition = false
+var subtraction = false
+var multiplication = false
+var division = false
+
+function saveDataOne()
+{
+  //Saves the data
+  save = document.getElementById("numOne").value;
+  newsave = parseFloat(save)
+  console.log(newsave)
+}
+function saveDataTwo()
+{
+  //Saves the data
+  saveTwo = document.getElementById("numTwo").value;
+  newsaveTwo = parseFloat(saveTwo)
+  console.log(newsaveTwo)
+}
+function checkmath()
+{
+  //Checks to see if certain radio buttons are checked, sets a variable to true, then calls the calculate function
+  if (document.getElementById("add").checked)
+  {
+    console.log("add was checked!")
+    addition = true
+    console.log(addition)
+    calculate()
+  }
+  else if(document.getElementById("sub").checked)
+  {
+    console.log("sub was checked!")
+    subtraction = true
+    console.log(subtraction)
+    calculate()
+  }
+  else if(document.getElementById("multi").checked){
+    console.log("multi was checked!")
+    multiplication = true
+    console.log(multiplication)
+    console.log(addition)
+    calculate()
+  }
+  else if(document.getElementById("divi").checked)
+  {
+    console.log("division was checked!")
+    division = true
+    calculate()
+  }
+
+}
+function calculate()
+{
+  //Checks to see which math choice is selected, then performs the requested function
+  if(addition === true)
+  {
+    answer = newsave + newsaveTwo
+    console.log(answer)
+    console.log("I added!")
+    console.log(addition)
+    document.write("Your answer is:", answer)
+  }
+  else if(subtraction === true)
+  {
+    answer = newsave - newsaveTwo
+    console.log(answer)
+    console.log("I subtracted!")
+    document.write("Your answer is:", answer)
+  }
+  else if(multiplication === true)
+  {
+    answer = newsave * newsaveTwo
+    console.log(answer)
+    console.log("I multiplied!")
+    document.write("Your answer is:", answer)
+  }
+  else if(division === true)
+  {
+    answer = newsave / newsaveTwo
+    console.log(answer)
+    console.log("I divided!")
+    document.write("Your answer is:", answer)
+  }
+  else
+  {
+    console.log("I dont know what to do!")
+  }
+
+}
+
+
+</script>
+
+
+
+
+</body>
+
+</html>
