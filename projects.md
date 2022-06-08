@@ -18,7 +18,7 @@
           <li><a href="/calculator.html">Basic Web Calculator (JavaScript)</a></li>
           <li><a href="https://replit.com/@operance/Playing-around-with-C#main.cpp">Basic CM/MM to Inches Converter (C++)</a></li>
           <li><a href="https://github.com/Operance/NPL/tree/master/Project%20NPL/Assets/Scripts">Former Unity Game Project (JavaScript)</a></li>
-          <li>Packet Manipulation Tool using Scapy (In-Progress)</li>
+          <li>Packet Manipulation Tool using Scapy (Python)(In-Progress)</li>
         </ul>
       </div>
     </div>
