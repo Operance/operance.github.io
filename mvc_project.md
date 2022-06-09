@@ -31,7 +31,7 @@
    
    
 <style>
-  .navbar{
+ .navbar{
   overflow: hidden;
   position: absolute;
   width: 100%;
@@ -42,3 +42,19 @@
   background-color: #155799;
   background-image: linear-gradient(120deg, #155799, #159957);
  }
+  
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  padding: 16px 20px;
+ }
+ 
+ .navbar a:hover{
+  background-color: #0c97b0;
+  height: 100%;
+  }
+ }
+</style>
