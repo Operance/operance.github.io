@@ -16,6 +16,7 @@
           <li><a href="/credbot">Discord Bot (Cred Bot)(Python)(In Progress)</a></li>
           <li><a href="/game">Unity Game (Browser Game)(C#)(In Progress)</a></li>
           <li><a href="/calculator.html">Basic Web Calculator (JavaScript)</a></li>
+          <li><a href="https://operance-react-js-calculator.netlify.app/">React JS Basic Web Calculator (JavaScript)</a></li>
           <li><a href="https://replit.com/@operance/Playing-around-with-C#main.cpp">Basic CM/MM to Inches Converter (C++)</a></li>
           <li><a href="https://github.com/Operance/NPL/tree/master/Project%20NPL/Assets/Scripts">Former Unity Game Project (JavaScript)</a></li>
           <li>Packet Manipulation Tool using Scapy (Python)(In-Progress)</li>
