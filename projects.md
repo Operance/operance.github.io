@@ -13,7 +13,7 @@
       </div>
       <div class="accordion-content">
         <ul>
-          <li><a href="/credbot">Discord Bot (Cred Bot)(Python)(In Progress)</a></li>
+          <li><a href="/credbot">Discord Bot (Cred Bot)(Python)(Moved to JavaScript, page coming soon)</a></li>
           <li><a href="/game">Unity Game (Browser Game)(C#)(In Progress)</a></li>
           <li><a href="/calculator.html">Basic Web Calculator (JavaScript)</a></li>
           <li><a href="https://operance-react-js-calculator.netlify.app/">React JS Basic Web Calculator (JavaScript)</a></li>
@@ -21,7 +21,8 @@
           <li><a href="https://github.com/Operance/NPL/tree/master/Project%20NPL/Assets/Scripts">Former Unity Game Project (JavaScript)</a></li>
           <li>Packet Manipulation Tool using Scapy (Python)(In-Progress)</li>
           <li><a href="/mvc_project">Star Citizen Ship Database MVC Core App (C#)(In-Progress)</a></li>
-          <li>ETH TX Hash to CSV tool(Python)(In-Progress)</li>
+          <li>ETH TX Hash to CSV tool(Python)</li>
+          <li><a href="https://www.crypto-sheets.net">TXID to CSV Web App (Node.JS, React.JS)</a></li>
         </ul>
       </div>
     </div>
