@@ -9,7 +9,6 @@
 <p> 
   This is a familiarization project with the intention to expand my knowledge utilizing the MVC app structure and learning the Azure Cloud Infrastructure. This project will serve as a stepping stone into a dashboard for the "Cred Bot" project. 
   <br>
-  <a href="https://sbrownmvcapp.azurewebsites.net">Link to project here</a>
 </p>
  <p>
    <strong>Languages:</strong> C#, HTML, JavaScript 
